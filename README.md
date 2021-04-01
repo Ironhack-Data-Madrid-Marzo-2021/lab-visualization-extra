@@ -2,7 +2,7 @@
 
 # Lab | Matplotlib and Seaborn Deep Dive
 
-## Introduction
+## Introduction    
 
 This lab contains a *[pair programming](https://en.wikipedia.org/wiki/Pair_programming) challenge*. This practice is often used by programmers to improve coding skills by watching another programmer code and providing constructive feedback.
 
